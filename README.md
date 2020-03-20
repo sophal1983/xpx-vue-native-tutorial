@@ -89,12 +89,13 @@ d. To run Apk on phone: npm run android
 
 ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs (https://t.me/proximax_devs)
 
-IMPORTANT LINKS:
-About ProximaX:
 - Public platform website
  (https://www.proximax.io/)- Enterprise website
+ 
  (https://www.proximax.ltd/)- Company profile 
- (https://suite-app.proximax.io/s/edDrecHDwszEDWm)- Corporate brochure (https://suite-app.proximax.io/s/38xP2ryywCHPkn2) 
+ 
+ (https://suite-app.proximax.io/s/edDrecHDwszEDWm)
+- Corporate brochure (https://suite-app.proximax.io/s/38xP2ryywCHPkn2) 
 - Enterprise brochure (short, non-techie)
  (https://suite-app.proximax.io/s/4CZ7gr7R3qHHmMx)- PowerPoint presentation deck
  (https://suite-app.proximax.io/s/Bt8HEJPXqj5KKL5)- Fact Sheet for Exchange Listings
