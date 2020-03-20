@@ -28,6 +28,7 @@
 ```
 
 https://code.visualstudio.com/docs/nodejs/vuejs-tutorial (https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
+cd xpx-vue-native-tutorial 
 
 ```
 
