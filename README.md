@@ -29,8 +29,8 @@
 
 ```
 
-https://code.visualstudio.com/docs/nodejs/vuejs-tutorial (https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
-cd xpx-vue-native-tutorial 
+npm install --global vue-native-cli
+npm install --global expo-cli
 
 ```
 
@@ -46,10 +46,11 @@ cd xpx-vue-native-tutorial
 ### 5. Project setup
 ```
 npm install
+{install all node_modules and library as in package.json}
 
-Install ProximaX Blockchain SDK for JavaScript:
-
+Install ProximaX Blockchain SDK for JavaScript (option):
 npm install tsjs-xpx-chain-sdk rxjs
+{only require if it is not install automatically by "npm install"}
 
 Read More:
 
@@ -59,30 +60,19 @@ https://github.com/proximax-storage/tsjs-xpx-chain-sdk
 
 ### 6. Compiles and hot-reloads for development
 ```
+run App at browser:
 npm run serve
 
 ```
-
-### 7. Compiles and minifies for production
-```
-npm run build
+### 7 Run App on Phone
 
 ```
-
-### 8. Lints and fixes files
-```
-npm run lint
-
-```
-### 9 How to Access Developer Options and Enable USB Debugging on Android::  
-
-```
-
+How to Access Developer Options and Enable USB Debugging on Android::  
 https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/
 
-1. Run App on Android phone:
-a. Enable Developer mode on your Phone: (How to Access Developer Options and Enable USB Debugging on Android:)   
-https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/ (https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
+a. Enable Developer mode on your Phone: (How to Access Developer Options and Enable USB Debugging on Android:
+How to Access Developer Options and Enable USB Debugging on Android::  
+https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/
 b. Connect PC to Phone with USB cable, select “File transfer”.  
 c. At Terminal, type “adb devices” to make sure Phone is hock to PC: 
  > adb devices
@@ -91,8 +81,7 @@ c. At Terminal, type “adb devices” to make sure Phone is hock to PC:
 (Your UUID will be different)
 d. To run Apk on phone: npm run android
 ```
-
-### 10. HELP AND REFERENCES
+### 8. HELP AND REFERENCES
 
 ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs (https://t.me/proximax_devs)
 
