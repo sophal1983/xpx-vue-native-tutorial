@@ -47,6 +47,14 @@ cd xpx-vue-native-tutorial
 ```
 npm install
 
+Install ProximaX Blockchain SDK for JavaScript:
+
+npm install tsjs-xpx-chain-sdk rxjs
+
+Read More:
+
+https://github.com/proximax-storage/tsjs-xpx-chain-sdk
+
 ```
 
 ### 6. Compiles and hot-reloads for development
