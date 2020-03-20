@@ -31,10 +31,10 @@ npm install --global expo-cli
 ```
 
 ### 4. Download and run Demo, xpx-vue-native-tutorial
-
+```
   git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git
   cd xpx-vue-native-tutorial 
-
+```
 
 ### 5. Project setup
 ```
