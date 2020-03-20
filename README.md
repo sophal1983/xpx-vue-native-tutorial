@@ -2,7 +2,7 @@
 
 ## ProximaX Sirius Vue-native demo development code
 
-## 1. Get Sirius Desktop Wallet for Testne
+## 1. Get Sirius Desktop Wallet for Testnet
 ```
   Server side Wallet: https://bctestnetwallet.xpxsirius.io/#/home (https://bctestnetwallet.xpxsirius.io/#/home)
   a. Create Wallet, name it “my-wallet”
