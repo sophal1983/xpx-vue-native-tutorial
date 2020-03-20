@@ -65,7 +65,7 @@ npm run serve
 
 ```
 ### 7 Run App on Phone
-[screenshod txpx-vue-native-tutorail!](https://photos.app.goo.gl/isgS3LB7VvNBrxNF7 ?raw=true)
+screenshod txpx-vue-native-tutorail(https://photos.app.goo.gl/isgS3LB7VvNBrxNF7)
 ```
 a. Enable Developer mode on your Phone:
 [How to Access Developer Options and Enable USB Debugging on Android.!] (https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
