@@ -17,11 +17,10 @@
   https://gitlab.com/df-wallet-developers/df-wallet-v0.1.0/-/tree/test/fix/src 
   
 ```
-[I'm an inline-style link](https://www.google.com)
 ### 2. Install VScode 
 ```
 
-  https://code.visualstudio.com/
+  [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ```
 
@@ -37,7 +36,7 @@ npm install --global expo-cli
 ### 4. Download and run Demo, xpx-vue-native-tutorial
 
 ```
-  git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git
+  [git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git](git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git)
   cd xpx-vue-native-tutorial 
   
 ```
@@ -54,7 +53,7 @@ npm install tsjs-xpx-chain-sdk rxjs
 
 Read More:
 
-https://github.com/proximax-storage/tsjs-xpx-chain-sdk
+[https://github.com/proximax-storage/tsjs-xpx-chain-sdk](https://github.com/proximax-storage/tsjs-xpx-chain-sdk)
 
 ```
 
@@ -65,11 +64,11 @@ npm run serve
 
 ```
 ### 7 Run App on Phone
-screenshod txpx-vue-native-tutorail (https://photos.app.goo.gl/isgS3LB7VvNBrxNF7)
+[screenshod txpx-vue-native-tutorail](https://photos.app.goo.gl/isgS3LB7VvNBrxNF7)
 ```
 a. Enable Developer mode on your Phone:
 ```
-How to Access Developer Options and Enable USB Debugging on Android. (https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
+How to Access Developer Options and Enable USB Debugging on Android. [https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
 ```
 b. Connect PC to Phone with USB cable, select “File transfer”.  
 c. At Terminal, type “adb devices” to make sure Phone is hock to PC: 
