@@ -65,10 +65,12 @@ npm run serve
 
 ```
 ### 7 Run App on Phone
-screenshod txpx-vue-native-tutorail(https://photos.app.goo.gl/isgS3LB7VvNBrxNF7)
+screenshod txpx-vue-native-tutorail (https://photos.app.goo.gl/isgS3LB7VvNBrxNF7)
 ```
 a. Enable Developer mode on your Phone:
-[How to Access Developer Options and Enable USB Debugging on Android.!] (https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
+```
+How to Access Developer Options and Enable USB Debugging on Android. (https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
+```
 b. Connect PC to Phone with USB cable, select “File transfer”.  
 c. At Terminal, type “adb devices” to make sure Phone is hock to PC: 
  > adb devices
@@ -85,9 +87,29 @@ d. To run Apk on phone: npm run android
 
 ###### About ProximaX:
 
+ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs (https://t.me/proximax_devs)
+
+IMPORTANT LINKS:
+About ProximaX:
+- Public platform website
+ (https://www.proximax.io/)- Enterprise website
+ (https://www.proximax.ltd/)- Company profile 
+ (https://suite-app.proximax.io/s/edDrecHDwszEDWm)- Corporate brochure (https://suite-app.proximax.io/s/38xP2ryywCHPkn2) 
+- Enterprise brochure (short, non-techie)
+ (https://suite-app.proximax.io/s/4CZ7gr7R3qHHmMx)- PowerPoint presentation deck
+ (https://suite-app.proximax.io/s/Bt8HEJPXqj5KKL5)- Fact Sheet for Exchange Listings
+ (https://suite-app.proximax.io/s/rEcRSGY8rosAKwk)- Video: Blockchain Reimagined and Evolved 
+ (https://youtu.be/2ZqeFpGfqSE)- Video: Post Blockchain Mainnet Activities
+
+ (https://www.youtube.com/watch?v=uOr1J0XJS7M)Sirius (https://www.youtube.com/watch?v=uOr1J0XJS7M) Dev Portals:
+- Sirius Chain
+ (https://bcdocs.xpxsirius.io/)- 
+
+
 ```
 
 - Public platform website
+```
   [Enterprise website!](https://www.proximax.io/)
   [Company profile!](https://www.proximax.ltd/)
  (https://suite-app.proximax.io/s/edDrecHDwszEDWm)- Corporate brochure (https://suite-app.proximax.io/s/38xP2ryywCHPkn2) 
