@@ -112,7 +112,7 @@ d. To run Apk on phone: npm run android
 ###### Competitor Analysis:
 - [Comparison table](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
 
-##### [About] (https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi) eDLX:
+##### [About](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi) eDLX:
 - [Paper: Radicalizing the Equity Market](http://bit.ly/2P8xT4z)
 - [Brochure](https://suite-app.proximax.io/s/zcS5kH87XQGxtWC)
 - [Brochure (Chinese)](https://suite-app.proximax.io/s/NjgBPAfi6HT4nNj)
@@ -149,7 +149,7 @@ d. To run Apk on phone: npm run android
 [About](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3) ProximaX Suite:
 - [Website](https://suite.proximax.io/)
 
-[Open] (https://suite.proximax.io/) Source Apps:
+[Open](https://suite.proximax.io/) Source Apps:
 - [Notes](https://github.com/proximax-storage/notes)
 - [Vault](https://github.com/proximax-storage/vault)
 - [File It!](https://github.com/proximax-storage/file-it)
@@ -160,7 +160,7 @@ d. To run Apk on phone: npm run android
 [Why](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ) become a ProximaX Technology Partner?
 - [Flyer](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
 
-[List] (https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc) of System Integrators:
+[List](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc) of System Integrators:
 - [List](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
 
 [Private](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF) Platform & Apps Fees:
