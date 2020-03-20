@@ -66,14 +66,15 @@ npm run build
 npm run lint
 
 ```
-## 9. HELP AND REFERENCES
+### 9. HELP AND REFERENCES
 
 ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs (https://t.me/proximax_devs)
 
 ###### IMPORTANT LINKS:
+
 ###### About ProximaX:
 
-````
+```
 
 - Public platform website
  (https://www.proximax.io/)- Enterprise website
@@ -91,9 +92,10 @@ npm run lint
  (https://storagedocs.xpxsirius.io/)- Supercontracts (not yet available)
 - Sirius Stream (not yet available)
 
+
 ```
 
-###### Sirius SDKs:
+##### Sirius SDKs:
 
 ```
 
