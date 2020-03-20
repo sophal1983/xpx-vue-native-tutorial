@@ -67,11 +67,10 @@ npm run serve
 ### 7 Run App on Phone
 
 ```
-![screenshod txpx-vue-native-tutorail](https://photos.app.goo.gl/isgS3LB7VvNBrxNF7 ?raw=true)
+[screenshod txpx-vue-native-tutorail!](https://photos.app.goo.gl/isgS3LB7VvNBrxNF7 ?raw=true)
 
 a. Enable Developer mode on your Phone:
-How to Access Developer Options and Enable USB Debugging on Android::  
-![](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
+[How to Access Developer Options and Enable USB Debugging on Android.!] (https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
 b. Connect PC to Phone with USB cable, select “File transfer”.  
 c. At Terminal, type “adb devices” to make sure Phone is hock to PC: 
  > adb devices
@@ -91,8 +90,8 @@ d. To run Apk on phone: npm run android
 ```
 
 - Public platform website
-  ![Enterprise website](https://www.proximax.io/)
-  ![ Company profile](https://www.proximax.ltd/)
+  [Enterprise website!](https://www.proximax.io/)
+  [Company profile!](https://www.proximax.ltd/)
  (https://suite-app.proximax.io/s/edDrecHDwszEDWm)- Corporate brochure (https://suite-app.proximax.io/s/38xP2ryywCHPkn2) 
 - Enterprise brochure (short, non-techie)
  (https://suite-app.proximax.io/s/4CZ7gr7R3qHHmMx)- PowerPoint presentation deck
