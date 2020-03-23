@@ -86,8 +86,12 @@ d. To run Apk on phone:
 ```
 >npm run android
 ```
+### 8. Vue native refence
+Vue-native format and styling, refer to:
+a. Basic Components: [Link](https://vue-native.io/docs/basic-components.html)
+b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 
-### 8. HELP AND REFERENCES
+### 9. HELP AND REFERENCES
 
 ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs
 
