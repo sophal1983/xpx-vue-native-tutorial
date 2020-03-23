@@ -83,8 +83,9 @@ c. At Terminal, type “adb devices” to check Phone is hocked to PC via USB ca
 ```
 
 d. To run Apk on phone: 
-
+```
 >npm run android
+```
 
 ### 8. HELP AND REFERENCES
 
