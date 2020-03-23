@@ -104,17 +104,14 @@ d. To run Apk on phone:
    - [Video: Blockchain Reimagined and Evolved ](https://suite-app.proximax.io/s/rEcRSGY8rosAKwk)
    - [Video: Post Blockchain Mainnet Activities](https://youtu.be/2ZqeFpGfqSE)
 
-[Sirius](https://www.youtube.com/watch?v=uOr1J0XJS7M) Dev Portals:
+##### Sirius Dev Portals:
   - [Sirius Chain](https://bcdocs.xpxsirius.io/)
   - [Sirius Storage](https://storagedocs.xpxsirius.io/)
-  - Supercontracts (not yet available)
-  - Sirius Stream (not yet available)
 
 ##### Sirius SDKs:
-
 - [GitHub](https://github.com/proximax-storage)
 
-[Sirius](https://github.com/proximax-storage) Tools:
+##### [Sirius Tools:](https://github.com/proximax-storage)
 - [Mainnet web wallet](https://wallet.xpxsirius.io/)
 - [Mainnet explorer](http://explorer.xpxsirius.io/)
 - [Mainnet iOS mobile wallet](https://apps.apple.com/us/app/proximax-sirius-wallet/id1475020250)
@@ -123,10 +120,10 @@ d. To run Apk on phone:
 - [Testnet explorer](http://bctestnetexplorer.xpxsirius.io/)
 - [Testnet faucet](https://bctestnetfaucet.xpxsirius.io/) 
  
-###### Competitor Analysis:
+##### Competitor Analysis:
 - [Comparison table](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
 
-##### [About](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi) eDLX:
+##### [About eDLX:](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
 - [Paper: Radicalizing the Equity Market](http://bit.ly/2P8xT4z)
 - [Brochure](https://suite-app.proximax.io/s/zcS5kH87XQGxtWC)
 - [Brochure (Chinese)](https://suite-app.proximax.io/s/NjgBPAfi6HT4nNj)
@@ -139,49 +136,44 @@ d. To run Apk on phone:
 - [Brochure](https://suite-app.proximax.io/s/jzKJDBCSKdmgK25)
 - [Paper](https://suite-app.proximax.io/s/CWssi8J66RAwx3e)
 - [Website](https://www.proximax.ltd/solutions/siriusid)
-- Video: General intro (coming soon!)
 
 ###### About mWallet:
-
 - [Brochure](https://suite-app.proximax.io/s/G7AZt36iHda56zD)
 - [Brochure(Chinese)](https://suite-app.proximax.io/s/7XRrf8dB2mtek2o)
 - [Brochure (Spanish)](https://suite-app.proximax.io/s/9XpBdagXwmLX2Zd)
 - [Website](https://www.proximax.ltd/solutions/mwallet) 
-- Video: General intro (not yet available)
 
-###### About ProximaX Forms:
-
+##### About ProximaX Forms:
 - Brochure (not yet available)
 - Website (not yet available)
 - Video: General intro (not yet available)
 
 ##### About ProximaX KYC:
-
 - [Website](https://kyc.proximax.io/)
 - [Brochure](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
 
-[About](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3) ProximaX Suite:
+##### [About ProximaX Suite:](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
 - [Website](https://suite.proximax.io/)
 
-[Open](https://suite.proximax.io/) Source Apps:
+##### [Open Source Apps:](https://suite.proximax.io/)
 - [Notes](https://github.com/proximax-storage/notes)
 - [Vault](https://github.com/proximax-storage/vault)
 - [File It!](https://github.com/proximax-storage/file-it)
 
-[Voting](https://github.com/proximax-storage/file-it) & Notary:
+##### [Voting & Notary:](https://github.com/proximax-storage/file-it)
 - [MOCD Whitepaper](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
 
-[Why](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ) become a ProximaX Technology Partner?
+##### [Why become a ProximaX Technology Partner?](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
 - [Flyer](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
 
-[List](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc) of System Integrators:
+##### [List of System Integrators:](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
 - [List](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
 
-[Private](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF) Platform & Apps Fees:
+##### [Private Platform & Apps Fees:](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
 - [Fees table](https://suite-app.proximax.io/s/Qa3WQDibFf3pBN6)
 - [Internal Fees Spreadsheet](https://t.me/c/1495989157/1672)
 
-[Contractual](https://t.me/c/1495989157/1672) Templates:
+##### [Contractual Templates:](https://t.me/c/1495989157/1672)
 - [Technology Partnership Agreement](v.1.3 (https://suite-app.proximax.io/s/GR4oQ2cZEasNmTH))
 - [MOU (v.1.1)](https://suite-app.proximax.io/s/XGBQ9j4W4RKPA5f)
 - [Mutual NDA (v.1.1)](https://suite-app.proximax.io/s/abnjPtB2pFM99Jp)
