@@ -21,7 +21,7 @@
   ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs
   
   g. Source code for this Wallet:
-  [https://gitlab.com/df-wallet-developers/df-wallet-v0.1.0/-/tree/test/fix/src](https://gitlab.com/df-wallet-developers/df-wallet-v0.1.0/-/tree/test/fix/src) 
+  [https://github.com/sophal1983/xpx-vue-native-tutorial](https://github.com/sophal1983/xpx-vue-native-tutorial) 
   
 ### 2. Install VScode 
 
