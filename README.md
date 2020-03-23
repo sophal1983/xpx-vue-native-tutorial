@@ -43,7 +43,9 @@ $npm start
 ```
 Download Expo Project https://expo.io/tools
 
-Launch Expo, and scan the QR code on the browser
+Launch Expo, and scan the QR code on the browser.
+
+Basic VueNative tutorial on youTube: [https://www.youtube.com/watch?v=8e0XHPylhj0](https://www.youtube.com/watch?v=8e0XHPylhj0)
 
 ### 5. Download and run Demo, xpx-vue-native-tutorial
 ```
