@@ -159,20 +159,20 @@ d. To run Apk on phone:
 - [Vault](https://github.com/proximax-storage/vault)
 - [File It!](https://github.com/proximax-storage/file-it)
 
-##### Voting & Notary:[Link](https://github.com/proximax-storage/file-it)
+##### Voting & Notary: [Link](https://github.com/proximax-storage/file-it)
 - [MOCD Whitepaper](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
 
-##### Why become a ProximaX Technology Partner?[Link](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
+##### Why become a ProximaX Technology Partner? [Link](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
 - [Flyer](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
 
-##### List of System Integrators:[Link](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
+##### List of System Integrators: [Link](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
 - [List](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
 
-##### Private Platform & Apps Fees:[Link](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
+##### Private Platform & Apps Fees: [Link](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
 - [Fees table](https://suite-app.proximax.io/s/Qa3WQDibFf3pBN6)
 - [Internal Fees Spreadsheet](https://t.me/c/1495989157/1672)
 
-##### Contractual Templates:[Link](https://t.me/c/1495989157/1672)
+##### Contractual Templates: [Link](https://t.me/c/1495989157/1672)
 - [Technology Partnership Agreement](v.1.3 (https://suite-app.proximax.io/s/GR4oQ2cZEasNmTH))
 - [MOU (v.1.1)](https://suite-app.proximax.io/s/XGBQ9j4W4RKPA5f)
 - [Mutual NDA (v.1.1)](https://suite-app.proximax.io/s/abnjPtB2pFM99Jp)
