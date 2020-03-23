@@ -29,16 +29,16 @@
 
 ### 3. Add Vue-native in VScode
 ```
->npm install --global vue-native-cli
->npm install --global expo-cli
+$npm install --global vue-native-cli
+$npm install --global expo-cli
 ```
 https://vue-native.io/docs/installation.html
 
 ### 4. Create your first Vue-native test App 
 Create "vue-native" master directory, then 
->cd vue-native
->vue-native init test123
->npm start
+$cd vue-native
+$vue-native init test123
+$npm start
 Download Expo Project https://expo.io/tools 
 Launch Expo, and scan the QR code on the browser
 
@@ -46,18 +46,18 @@ Launch Expo, and scan the QR code on the browser
 ```
   a. Create "vue-native" master directory, then >cd vue-native.
   b. At "vue-native" directory, download demo source code: 
-      >git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git
+      $git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git
   c. In VScode open "xpx-vue-native-tutorial" project or just chnage directory to: 
-      >cd xpx-vue-native-tutorial 
+      $cd xpx-vue-native-tutorial 
 ```
 
 ### 6. Project setup
 ```
->npm install
+$npm install
 {install all node_modules and library as in package.json}
 
 Install ProximaX Sirius SDK for JavaScript (option):
->npm install tsjs-xpx-chain-sdk rxjs
+$npm install tsjs-xpx-chain-sdk rxjs
 {only require if it is not install automatically by "npm install"}
 
 Read More:
@@ -69,7 +69,7 @@ Read More:
 ```
 run App at browser:
 
->npm start
+$npm start
 Launch Expo, and scan the QR code on the browser
 
 ```
