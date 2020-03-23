@@ -73,11 +73,11 @@ How to Access Developer Options and Enable USB Debugging on Android. [https://ww
 
 b. Connect PC to Phone with USB cable, select “File transfer”.  
 
-c. At Terminal, type “adb devices” tocheck Phone is hock to PC via USB cable:<br/>
- >adb devices<br/>
- List of devices attached<br/>
- 8UE5T18205002780 device<br/>
-(Your UUID will be different)<br/>
+c. At Terminal, type “adb devices” tocheck Phone is hock to PC via USB cable:  
+ >adb devices  
+ List of devices attached  
+ 8UE5T18205002780 device  
+(Your UUID will be different)  
 
 d. To run Apk on phone: npm run android
 ```
