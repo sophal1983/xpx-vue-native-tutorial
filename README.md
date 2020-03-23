@@ -6,7 +6,7 @@
 
   Server side Wallet: [https://bctestnetwallet.xpxsirius.io/#/home](https://bctestnetwallet.xpxsirius.io/#/home)
   a. Create Wallet, name it “my-wallet”
-  b. “Save Paper Wallet” or “Show Private Key” and save it. 
+  b. “Save Paper Wallet” or “Show Private Key” and save it.
   c. Continue and sign-in to my-wallet, select “Account”, and copy the Address.
   d. Get test xpx from this link: [https://bctestnetfaucet.xpxsirius.io/#/](https://bctestnetfaucet.xpxsirius.io/#/)
   e. Paste your wallet Address into: “Enter your Testnet Address”, press “Send”. 10K xpx will send to your wallet
