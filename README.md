@@ -88,7 +88,9 @@ d. To run Apk on phone:
 ```
 ### 8. Vue native refence
 Vue-native format and styling, refer to:
+
 a. Basic Components: [Link](https://vue-native.io/docs/basic-components.html)
+
 b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 
 ### 9. HELP AND REFERENCES
