@@ -42,7 +42,7 @@ $vue-native init test123
 $cd test123
 $npm start
 ```
-Download Expo Project https://expo.io/tools
+Download Expo Project https://expo.io/tools at Google Playstore.
 
 Launch Expo, and scan the QR code on the browser.
 
