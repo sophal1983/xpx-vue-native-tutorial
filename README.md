@@ -93,11 +93,9 @@ a. Basic Components: [Link](https://vue-native.io/docs/basic-components.html)
 
 b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 
-### 9. HELP AND REFERENCES
+### 9. Help and references
 
 ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs
-
-###### IMPORTANT LINKS:
 
 ###### About ProximaX:
    - [Enterprise website!](https://www.proximax.io/)
@@ -135,7 +133,6 @@ b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 - [Brochure (Spanish)](https://suite-app.proximax.io/s/6jEHnjyKEA8xNnB)
 - [Overview of eDLX for License to Operate](https://suite-app.proximax.io/s/3TqBTftJymXyCgm)
 - [Website](https://www.proximax.ltd/solutions/edlx)
-- Video: General intro (not yet available)
 
 ###### About SiriusID:
 - [Brochure](https://suite-app.proximax.io/s/jzKJDBCSKdmgK25)
@@ -148,19 +145,14 @@ b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 - [Brochure (Spanish)](https://suite-app.proximax.io/s/9XpBdagXwmLX2Zd)
 - [Website](https://www.proximax.ltd/solutions/mwallet) 
 
-##### About ProximaX Forms:
-- Brochure (not yet available)
-- Website (not yet available)
-- Video: General intro (not yet available)
-
 ##### About ProximaX KYC:
 - [Website](https://kyc.proximax.io/)
 - [Brochure](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
 
-##### About ProximaX Suite:[Link](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
+##### About ProximaX Suite: [Link](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
 - [Website](https://suite.proximax.io/)
 
-##### [Open Source Apps:](https://suite.proximax.io/)
+##### Open Source Apps: [Link](https://suite.proximax.io/)
 - [Notes](https://github.com/proximax-storage/notes)
 - [Vault](https://github.com/proximax-storage/vault)
 - [File It!](https://github.com/proximax-storage/file-it)
