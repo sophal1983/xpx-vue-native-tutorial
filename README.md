@@ -41,7 +41,8 @@ $cd vue-native
 $vue-native init test123
 $npm start
 ```
-Download Expo Project https://expo.io/tools 
+Download Expo Project https://expo.io/tools
+
 Launch Expo, and scan the QR code on the browser
 
 ### 5. Download and run Demo, xpx-vue-native-tutorial
