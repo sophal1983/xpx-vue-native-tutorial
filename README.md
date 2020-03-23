@@ -1,6 +1,6 @@
-# xpx-vue-native-tutorail
+# ProximaX Sirius Vue-native demo development code
 
-## ProximaX Sirius Vue-native demo development code
+## xpx-vue-native-tutorail
 
 ### 1. Get Sirius Desktop Wallet for Testnet
 
