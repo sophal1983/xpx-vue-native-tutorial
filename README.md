@@ -94,7 +94,6 @@ d. To run Apk on phone:
 ###### IMPORTANT LINKS:
 
 ###### About ProximaX:
-
    - [Enterprise website!](https://www.proximax.io/)
    - [Company profile!](https://www.proximax.ltd/)
    - [Corporate brochure](https://suite-app.proximax.io/s/edDrecHDwszEDWm)
@@ -111,7 +110,7 @@ d. To run Apk on phone:
 ##### Sirius SDKs:
 - [GitHub](https://github.com/proximax-storage)
 
-##### [Sirius Tools:](https://github.com/proximax-storage)
+##### Sirius Tools:[Link](https://github.com/proximax-storage)
 - [Mainnet web wallet](https://wallet.xpxsirius.io/)
 - [Mainnet explorer](http://explorer.xpxsirius.io/)
 - [Mainnet iOS mobile wallet](https://apps.apple.com/us/app/proximax-sirius-wallet/id1475020250)
@@ -123,7 +122,7 @@ d. To run Apk on phone:
 ##### Competitor Analysis:
 - [Comparison table](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
 
-##### [About eDLX:](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
+##### About eDLX:[Link](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
 - [Paper: Radicalizing the Equity Market](http://bit.ly/2P8xT4z)
 - [Brochure](https://suite-app.proximax.io/s/zcS5kH87XQGxtWC)
 - [Brochure (Chinese)](https://suite-app.proximax.io/s/NjgBPAfi6HT4nNj)
@@ -152,7 +151,7 @@ d. To run Apk on phone:
 - [Website](https://kyc.proximax.io/)
 - [Brochure](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
 
-##### [About ProximaX Suite:](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
+##### About ProximaX Suite:[Link](https://suite-app.proximax.io/s/oiGjyKnfLQGftN3)
 - [Website](https://suite.proximax.io/)
 
 ##### [Open Source Apps:](https://suite.proximax.io/)
@@ -160,20 +159,20 @@ d. To run Apk on phone:
 - [Vault](https://github.com/proximax-storage/vault)
 - [File It!](https://github.com/proximax-storage/file-it)
 
-##### [Voting & Notary:](https://github.com/proximax-storage/file-it)
+##### Voting & Notary:[Link](https://github.com/proximax-storage/file-it)
 - [MOCD Whitepaper](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
 
-##### [Why become a ProximaX Technology Partner?](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
+##### Why become a ProximaX Technology Partner?[Link](https://suite-app.proximax.io/s/tTci9XFqgbAq3sQ)
 - [Flyer](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
 
-##### [List of System Integrators:](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
+##### List of System Integrators:[Link](https://suite-app.proximax.io/s/5F6Sj7NsZEA7MNc)
 - [List](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
 
-##### [Private Platform & Apps Fees:](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
+##### Private Platform & Apps Fees:[Link](https://suite-app.proximax.io/s/89FsdKjf4Yp73BF)
 - [Fees table](https://suite-app.proximax.io/s/Qa3WQDibFf3pBN6)
 - [Internal Fees Spreadsheet](https://t.me/c/1495989157/1672)
 
-##### [Contractual Templates:](https://t.me/c/1495989157/1672)
+##### Contractual Templates:[Link](https://t.me/c/1495989157/1672)
 - [Technology Partnership Agreement](v.1.3 (https://suite-app.proximax.io/s/GR4oQ2cZEasNmTH))
 - [MOU (v.1.1)](https://suite-app.proximax.io/s/XGBQ9j4W4RKPA5f)
 - [Mutual NDA (v.1.1)](https://suite-app.proximax.io/s/abnjPtB2pFM99Jp)
