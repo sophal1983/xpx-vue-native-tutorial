@@ -72,13 +72,12 @@ a. Enable Developer mode on your Phone:
 How to Access Developer Options and Enable USB Debugging on Android. [https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
 
 b. Connect PC to Phone with USB cable, select “File transfer”.  
----
-c. At Terminal, type “adb devices” tocheck Phone is hock to PC via USB cable:
- >adb devices
- List of devices attached
- 8UE5T18205002780 device 
-(Your UUID will be different)
----
+
+c. At Terminal, type “adb devices” to check Phone is hocked to PC via USB cable:&nbsp;
+ >adb devices&nbsp;
+ List of devices attached&nbsp;
+ 8UE5T18205002780 device &nbsp;
+(Your UUID will be different)&nbsp;
 
 d. To run Apk on phone: npm run android
 ```
