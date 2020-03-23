@@ -37,8 +37,9 @@ https://vue-native.io/docs/installation.html
 
 ### 4. Download and run Demo, xpx-vue-native-tutorial
 ```
-  git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git
-  cd xpx-vue-native-tutorial 
+  a. Create "vue-native" master directory, then >cd vue-native.
+  b. At "vue-native" directory, download demo source code: git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git
+  c. In VScode open "xpx-vue-native-tutorial" project or just chnage directory to: cd xpx-vue-native-tutorial 
 ```
 
 ### 5. Project setup
