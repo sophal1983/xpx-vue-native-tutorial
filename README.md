@@ -39,6 +39,7 @@ https://vue-native.io/docs/installation.html
 Create "vue-native" master directory, then 
 $cd vue-native
 $vue-native init test123
+$cd test123
 $npm start
 ```
 Download Expo Project https://expo.io/tools
