@@ -29,8 +29,8 @@
 
 ### 3. Add Vue-native in VScode
 ```
-npm install --global vue-native-cli
-npm install --global expo-cli
+>npm install --global vue-native-cli
+>npm install --global expo-cli
 ```
 https://vue-native.io/docs/installation.html
 
@@ -45,11 +45,11 @@ https://vue-native.io/docs/installation.html
 
 ### 5. Project setup
 ```
-npm install
+>npm install
 {install all node_modules and library as in package.json}
 
-Install ProximaX Blockchain SDK for JavaScript (option):
-npm install tsjs-xpx-chain-sdk rxjs
+Install ProximaX Sirius SDK for JavaScript (option):
+>npm install tsjs-xpx-chain-sdk rxjs
 {only require if it is not install automatically by "npm install"}
 
 Read More:
@@ -60,24 +60,25 @@ Read More:
 ### 6. Compiles and hot-reloads for development
 ```
 run App at browser:
-npm run serve
+
+>npm run serve
 
 ```
 ### 7 Run App on Phone
 [screenshod txpx-vue-native-tutorail](https://photos.app.goo.gl/isgS3LB7VvNBrxNF7)
 
-```
 a. Enable Developer mode on your Phone:
 
-```
 How to Access Developer Options and Enable USB Debugging on Android. [https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
-```
+
 b. Connect PC to Phone with USB cable, select “File transfer”.  
-c. At Terminal, type “adb devices” to make sure Phone is hock to PC: 
- > adb devices
- List of devices attached
- 8UE5T18205002780 device
-(Your UUID will be different)
+
+c. At Terminal, type “adb devices” tocheck Phone is hock to PC via USB cable:<br/>
+ >adb devices<br/>
+ List of devices attached<br/>
+ 8UE5T18205002780 device<br/>
+(Your UUID will be different)<br/>
+
 d. To run Apk on phone: npm run android
 ```
 ### 8. HELP AND REFERENCES
