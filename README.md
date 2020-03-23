@@ -128,7 +128,7 @@ b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 ##### Competitor Analysis:
 - [Comparison table](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
 
-##### About eDLX:[Link](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
+##### About eDLX: [Link](https://suite-app.proximax.io/s/AYFYJ78KnHzwkKi)
 - [Paper: Radicalizing the Equity Market](http://bit.ly/2P8xT4z)
 - [Brochure](https://suite-app.proximax.io/s/zcS5kH87XQGxtWC)
 - [Brochure (Chinese)](https://suite-app.proximax.io/s/NjgBPAfi6HT4nNj)
