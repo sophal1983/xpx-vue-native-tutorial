@@ -26,12 +26,9 @@
 
 ### 3. Add Vue-native in VScode
 
-```
-
 npm install --global vue-native-cli
 npm install --global expo-cli
-
-```
+https://vue-native.io/docs/installation.html
 
 ### 4. Download and run Demo, xpx-vue-native-tutorial
 ```
