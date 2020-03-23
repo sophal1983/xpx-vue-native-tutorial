@@ -74,8 +74,8 @@ run App at browser:
 
 $npm start
 Launch Expo, and scan the QR code on the browser
-
 ```
+
 ### 8. Vue native refence
 Vue-native format and styling, refer to:
 
