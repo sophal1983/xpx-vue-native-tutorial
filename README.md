@@ -73,14 +73,19 @@ How to Access Developer Options and Enable USB Debugging on Android. [https://ww
 
 b. Connect PC to Phone with USB cable, select “File transfer”.  
 
-c. At Terminal, type “adb devices” to check Phone is hocked to PC via USB cable:&nbsp;
- >adb devices&nbsp;
- List of devices attached&nbsp;
- 8UE5T18205002780 device &nbsp;
-(Your UUID will be different)&nbsp;
+c. At Terminal, type “adb devices” to check Phone is hocked to PC via USB cable:
 
-d. To run Apk on phone: npm run android
 ```
+ >adb devices
+ List of devices attached
+ 8UE5T18205002780 device 
+(Your UUID will be different)
+```
+
+d. To run Apk on phone: 
+
+>npm run android
+
 ### 8. HELP AND REFERENCES
 
 ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs
