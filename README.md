@@ -34,7 +34,15 @@
 ```
 https://vue-native.io/docs/installation.html
 
-### 4. Download and run Demo, xpx-vue-native-tutorial
+### 4. Create your first Vue-native test App 
+Create "vue-native" master directory, then 
+>cd vue-native
+>vue-native init test123
+>npm start
+Download Expo Project https://expo.io/tools (https://expo.io/tools)
+Launch Expo, and scan the QR code on the browser
+
+### 5. Download and run Demo, xpx-vue-native-tutorial
 ```
   a. Create "vue-native" master directory, then >cd vue-native.
   b. At "vue-native" directory, download demo source code: 
@@ -43,7 +51,7 @@ https://vue-native.io/docs/installation.html
       >cd xpx-vue-native-tutorial 
 ```
 
-### 5. Project setup
+### 6. Project setup
 ```
 >npm install
 {install all node_modules and library as in package.json}
@@ -57,34 +65,13 @@ Read More:
 
 [https://github.com/proximax-storage/tsjs-xpx-chain-sdk](https://github.com/proximax-storage/tsjs-xpx-chain-sdk)
 
-### 6. Compiles and hot-reloads for development
+### 7. Compiles and hot-reloads for development
 ```
 run App at browser:
 
->npm run serve
+>npm start
+Launch Expo, and scan the QR code on the browser
 
-```
-### 7 Run App on Phone
-[screenshod txpx-vue-native-tutorail](https://photos.app.goo.gl/isgS3LB7VvNBrxNF7)
-
-a. Enable Developer mode on your Phone:
-
-How to Access Developer Options and Enable USB Debugging on Android. [https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
-
-b. Connect PC to Phone with USB cable, select “File transfer”.  
-
-c. At Terminal, type “adb devices” to check Phone is hocked to PC via USB cable:
-
-```
- >adb devices
- List of devices attached
- 8UE5T18205002780 device 
-(Your UUID will be different)
-```
-
-d. To run Apk on phone: 
-```
->npm run android
 ```
 ### 8. Vue native refence
 Vue-native format and styling, refer to:
