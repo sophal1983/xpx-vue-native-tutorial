@@ -17,8 +17,8 @@
   e. Paste your wallet Address into: “Enter your Testnet Address”, press “Send”. 10K xpx will send to your wallet
   Wait for 15-20sec, you should see 10K xpx in your wallet.
   
-  f. You may ask your developer fellow to send your Testnet xpx via:
-  ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs)
+  f. Or you may ask your developer fellow to send your Testnet xpx via:
+  ##### ProximaX Developers Chat Group at Telegram:  https://t.me/proximax_devs
   
   g. Source code for this Wallet:
   [https://gitlab.com/df-wallet-developers/df-wallet-v0.1.0/-/tree/test/fix/src](https://gitlab.com/df-wallet-developers/df-wallet-v0.1.0/-/tree/test/fix/src) 
