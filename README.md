@@ -114,7 +114,7 @@ b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 ##### Sirius SDKs:
 - [GitHub](https://github.com/proximax-storage)
 
-##### Sirius Tools:[Link](https://github.com/proximax-storage)
+##### Sirius Tools: [Link](https://github.com/proximax-storage)
 - [Mainnet web wallet](https://wallet.xpxsirius.io/)
 - [Mainnet explorer](http://explorer.xpxsirius.io/)
 - [Mainnet iOS mobile wallet](https://apps.apple.com/us/app/proximax-sirius-wallet/id1475020250)
