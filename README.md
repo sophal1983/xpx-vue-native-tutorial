@@ -68,6 +68,8 @@ https://github.com/proximax-storage/tsjs-xpx-chain-sdk
 
 ### 7. Compiles and hot-reloads for development
 ```
+For react-native to use nodes standard lib: $npm i rn-nodeify -g
+
 run App at browser:
 
 $npm start
