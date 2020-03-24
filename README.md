@@ -1,5 +1,5 @@
 # ProximaX Sirius Vue-native demo development code
-## xpx-vue-native-tutorail
+## xpx-vue-native-tutorial
 ### 1. Get Sirius Desktop Wallet for Testnet
 Server side Wallet: https://bctestnetwallet.xpxsirius.io/#/home
 
