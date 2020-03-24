@@ -2,6 +2,7 @@ import { QueryParams, Account, PublicAccount, NetworkType, AccountHttp, Deadline
 import { Network }  from './utils';
 import { NODE_URL } from './node_url';
 
+
 export const SirusProvider = {
     getTxn:          getTxn,
     sendTxn:         sendTxn,
@@ -54,9 +55,7 @@ function sendTxn(sender, toAddress, mosaicId, amount, message = "") {
 
 
 function getTxn(publicKey) {
-    const pageSize = 10; 
-    // const publicAccount = accountInfo.publicAccount; 
-    // const publicAccount =  PublicAccount.createFromPublicKey(accountInfo.publicKey, NETWORK_TYPE);  
+    const pageSize = 10;   
     const publicAccount =  PublicAccount.createFromPublicKey(publicKey, NETWORK_TYPE);
     accountHttp.transactions(publicAccount, new QueryParams(pageSize)).subscribe(transactions => console.log(transactions), err => console.error(err));    
 }

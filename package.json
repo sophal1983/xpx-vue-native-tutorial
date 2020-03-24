@@ -1,46 +1,31 @@
 {
-  "name": "xpx-vue-native-tutorial",
-  "version": "0.1.0",
-  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "core-js": "^3.6.4",
-    "eslint-plugin-vue": "^6.2.1",
-    "node-sass": "^4.13.1",
+    "buffer": "^5.5.0",
+    "crypto-js": "^4.0.0",
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-web": "~0.11.7",
     "rxjs": "^6.5.4",
     "tsjs-xpx-chain-sdk": "^0.7.0",
-    "vue": "^2.6.11"
+    "util": "^0.12.2",
+    "vue-native-core": "0.1.4",
+    "vue-native-helper": "0.1.4"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.2.0",
-    "@vue/cli-plugin-eslint": "~4.2.0",
-    "@vue/cli-service": "~4.2.0",
-    "babel-eslint": "^10.0.3",
-    "eslint": "^6.7.2",
-    "sass-loader": "^8.0.2",
-    "vue-template-compiler": "^2.6.11"
+    "@babel/core": "7.9.0",
+    "babel-preset-expo": "~8.0.0",
+    "vue-native-scripts": "0.1.4"
   },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "plugin:vue/essential",
-      "eslint:recommended"
-    ],
-    "parserOptions": {
-      "parser": "babel-eslint"
-    },
-    "rules": {}
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions"
-  ]
+  "private": true
 }
