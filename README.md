@@ -82,26 +82,30 @@ b. Data binding: [Link](https://vue-native.io/docs/handle-user-input.html)
 
 ### 9. Help and references
 ProximaX Developers Chat Group at Telegram: https://t.me/proximax_devs
-About ProximaX:
-Enterprise website!
-Company profile!
-Corporate brochure
-Enterprise brochure (short, non-techie)
-PowerPoint presentation deck
-Fact Sheet for Exchange Listings
-Video: Blockchain Reimagined and Evolved
-Video: Post Blockchain Mainnet Activities
-Sirius Dev Portals:
-Sirius Chain
-Sirius Storage
-Sirius SDKs:
-GitHub
-Sirius Tools: Link
-Mainnet web wallet
-Mainnet explorer
-Mainnet iOS mobile wallet
-Mainnet Android mobile wallet
-Testnet web wallet
+
+##### About ProximaX:
+- [Enterprise website!](https://www.proximax.io/)
+- [Company profile!](https://www.proximax.ltd/)
+- [Corporate brochure](https://suite-app.proximax.io/s/edDrecHDwszEDWm)
+- [Enterprise brochure (short, non-techie)](https://suite-app.proximax.io/s/4CZ7gr7R3qHHmMx)
+- [PowerPoint presentation deck](https://suite-app.proximax.io/s/4CZ7gr7R3qHHmMx)
+- [Fact Sheet for Exchange Listings](https://suite-app.proximax.io/s/Bt8HEJPXqj5KKL5)
+- [Video: Blockchain Reimagined and Evolved](https://suite-app.proximax.io/s/rEcRSGY8rosAKwk)
+- [Video: Post Blockchain Mainnet Activities](https://youtu.be/2ZqeFpGfqSE)
+
+##### Sirius Dev Portals:
+- [Sirius Chain](https://bcdocs.xpxsirius.io/)
+- [Sirius Storage](https://storagedocs.xpxsirius.io/)
+
+##### Sirius SDKs:
+- [GitHub](https://github.com/proximax-storage)
+
+##### Sirius Tools: [Link](https://github.com/proximax-storage)
+- [Mainnet web wallet](https://wallet.xpxsirius.io/)
+- [Mainnet explorer](http://explorer.xpxsirius.io/)
+- [Mainnet iOS mobile wallet](https://apps.apple.com/us/app/proximax-sirius-wallet/id1475020250)
+- [Mainnet Android mobile wallet](https://play.google.com/store/apps/details?id=io.proximax.siriuschainwallet)
+- [Testnet web wallet
 Testnet explorer
 Testnet faucet
 Competitor Analysis:
