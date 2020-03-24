@@ -16,17 +16,18 @@ e. Paste your wallet Address into: “Enter your Testnet Address”, press “Se
 f. Or you may ask your developer fellow to send your Testnet xpx via:
 
 ProximaX Developers Chat Group at Telegram: https://t.me/proximax_devs
+
 g. Source code for this Wallet: https://github.com/sophal1983/xpx-vue-native-tutorial
 
-##### 2. Install VScode
+### 2. Install VScode
 https://code.visualstudio.com/
 
-##### 3. Add Vue-native in VScode
+### 3. Add Vue-native in VScode
 $npm install --global vue-native-cli
 $npm install --global expo-cli
 https://vue-native.io/docs/installation.html
 
-##### 4. Create your first Vue-native test App
+### 4. Create your first Vue-native test App
 Create "vue-native" master directory, then 
 $cd vue-native
 $vue-native init test123
@@ -38,13 +39,13 @@ Launch Expo, and scan the QR code on the browser.
 
 Basic VueNative tutorial on youTube: https://www.youtube.com/watch?v=8e0XHPylhj0
 
-##### 5. Download and run Demo, xpx-vue-native-tutorial
+### 5. Download and run Demo, xpx-vue-native-tutorial
   a. Create "vue-native" master directory, then >cd vue-native.
   b. At "vue-native" directory, download demo source code: 
       $git clone https://github.com/sophal1983/xpx-vue-native-tutorial.git
   c. In VScode open "xpx-vue-native-tutorial" project or just chnage directory to: 
       $cd xpx-vue-native-tutorial 
-##### 6. Project setup
+### 6. Project setup
 $npm install
 {install all node_modules and library as in package.json}
 
@@ -55,19 +56,19 @@ $npm install tsjs-xpx-chain-sdk rxjs
 Read More:
 https://github.com/proximax-storage/tsjs-xpx-chain-sdk
 
-##### 7. Compiles and hot-reloads for development
+### 7. Compiles and hot-reloads for development
 run App at browser:
 
 $npm start
 Launch Expo, and scan the QR code on the browser
-##### 8. Vue native refence
+### 8. Vue native refence
 Vue-native format and styling, refer to:
 
 a. Basic Components: Link
 
 b. Data binding: Link
 
-##### 9. Help and references
+### 9. Help and references
 ProximaX Developers Chat Group at Telegram: https://t.me/proximax_devs
 About ProximaX:
 Enterprise website!
